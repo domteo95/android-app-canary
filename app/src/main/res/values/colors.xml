@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DB954</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="color6">#e27076</color>
+    <color name="color7">#c4d9b8</color>
+    <color name="color4">#de425b</color>
+    <color name="color5">#96c082</color>
+    <color name="color1">#288f03</color>
+    <color name="color2">#f1c6c6</color>
+    <color name="color3">#66a84c</color>
+    <color name="color8">#ec9c9d</color>
+    <color name="canaryBackgroundColor">#E2F4F6</color>
+</resources>
